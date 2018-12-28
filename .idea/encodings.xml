@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/MR/src/main/java/com/hujtb/mr/cache/DistributedCacheDriver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MR/src/main/java/com/hujtb/mr/cache/DistributedCacheMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MR/src/main/java/com/hujtb/mr/table/TableBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MR/src/main/java/com/hujtb/mr/table/TableDriver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MR/src/main/java/com/hujtb/mr/table/TableMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MR/src/main/java/com/hujtb/mr/table/TableReducer.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

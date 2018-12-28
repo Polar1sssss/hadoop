@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MR/MR.iml" filepath="$PROJECT_DIR$/MR/MR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop.iml" filepath="$PROJECT_DIR$/hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDFS/hdfs.iml" filepath="$PROJECT_DIR$/HDFS/hdfs.iml" />
+    </modules>
+  </component>
+</project>

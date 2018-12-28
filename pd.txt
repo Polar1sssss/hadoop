@@ -1,0 +1,1 @@
+/tmp/hadoop-hujtb/mapred/local/1545478593479/pd.txt
